@@ -70,3 +70,5 @@ This dashboard is tailored for:
 
 ### 🚀 Outcome  
 An interactive, data-rich hospitality dashboard that simplifies performance tracking, enables forecasting, and empowers hotel stakeholders with actionable insights.
+
+### Project Walkthrough - https://www.linkedin.com/posts/jomainahafizahmed_powerbi-hospitalityanalytics-realdataproject-activity-7319496680494575616-SEsP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD5hqzkB-0VcrbRzrZUo8ClbxVyW72xi36M
